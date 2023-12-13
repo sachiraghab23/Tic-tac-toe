@@ -7,4 +7,4 @@ We can play this game from below given link.
 <br>
 👇👇👇
 <br>
-click here to [play]()
+click here to [play](https://sachiraghab23.github.io/Tic-tac-toe/)
